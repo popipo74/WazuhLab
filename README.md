@@ -25,12 +25,23 @@ agent able to ping to central
 
 # going to add new agent in agent section
 add server ip lab & name
-![image](https://github.com/popipo74/WazuhLab/assets/46301752/b629d739-b625-4540-ad82-3bf939064a9d)
+![image](https://github.com/popipo74/WazuhLab/assets/46301752/7c3bd6c0-8b25-485b-9829-f9c7a6f3a24c)
+
 
 
 Choose DEB because ubuntu is Debian
 
+![image](https://github.com/popipo74/WazuhLab/assets/46301752/493ed00d-7dfe-4cb7-b66c-60d824497815)
 
+![image](https://github.com/popipo74/WazuhLab/assets/46301752/67aac909-6fd4-404b-8646-ac024d116b61)
 
-![image](https://github.com/popipo74/WazuhLab/assets/46301752/e4ca8e4a-ddee-4d28-9147-cbd6e6d70999)
+edit 
+to allow wazuh manage to connect with agent adn receved key
 
+![image](https://github.com/popipo74/WazuhLab/assets/46301752/1bc20699-8d8a-4283-acf9-5fe66aded9d5)
+
+kalau tak jadi jugak kena check port
+
+yattta
+
+![image](https://github.com/popipo74/WazuhLab/assets/46301752/0cc2dbac-593c-400d-aa09-2490f02438c1)
