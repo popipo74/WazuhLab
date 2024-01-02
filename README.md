@@ -45,3 +45,9 @@ kalau tak jadi jugak kena check port
 yattta
 
 ![image](https://github.com/popipo74/WazuhLab/assets/46301752/0cc2dbac-593c-400d-aa09-2490f02438c1)
+
+log in fail
+![image](https://github.com/popipo74/WazuhLab/assets/46301752/49a6d528-e820-4813-94d2-95c781b54ec2)
+
+![image](https://github.com/popipo74/WazuhLab/assets/46301752/8a98dbff-cdcd-4059-af02-61da910b6fe8)
+
