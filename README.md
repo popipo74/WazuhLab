@@ -1,7 +1,8 @@
 # WazuhLab
 
 # wazuh central server able to ping to ubunut lab server
-![image](https://github.com/popipo74/WazuhLab/assets/46301752/d904a511-431e-41dc-a0c4-3e848ae7a2e1)
+![image](https://github.com/popipo74/WazuhLab/assets/46301752/aa496fe8-1223-4d4f-b9ca-4c68b6b5d365)
+
 
 # wazuh central set to bridge network
 ![image](https://github.com/popipo74/WazuhLab/assets/46301752/3afaa109-b742-43e1-a743-3fa5d18c46f2)
@@ -18,17 +19,18 @@ agent able to ping to central
 ![image](https://github.com/popipo74/WazuhLab/assets/46301752/bae12a95-5efb-4a3d-a8e9-924f49e92880)
 
 
-# access dashboard wazuh
-![image](https://github.com/popipo74/WazuhLab/assets/46301752/b057a1de-a1e8-4f31-b390-0616a21c69a6)
+# access dashboard wazuh[cant copy command to vm][had to do this way haha]
+![image](https://github.com/popipo74/WazuhLab/assets/46301752/af559215-4ef9-4369-90c3-874c4a655cc6)
+
 
 # going to add new agent in agent section
-![image](https://github.com/popipo74/WazuhLab/assets/46301752/f9e8456a-5ee6-4cf1-8ac4-b3d504a1c592)
+add server ip lab & name
+![image](https://github.com/popipo74/WazuhLab/assets/46301752/b629d739-b625-4540-ad82-3bf939064a9d)
+
 
 Choose DEB because ubuntu is Debian
 
-add server ip lab & name
 
-![image](https://github.com/popipo74/WazuhLab/assets/46301752/dcba29cf-646b-4d3e-8156-93b8977bb310)
 
-following the instruction. 
-![image](https://github.com/popipo74/WazuhLab/assets/46301752/634ff3a1-a2ac-48e2-8355-878833aea42e)
+![image](https://github.com/popipo74/WazuhLab/assets/46301752/e4ca8e4a-ddee-4d28-9147-cbd6e6d70999)
+
